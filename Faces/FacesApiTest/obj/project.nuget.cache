@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CCkJlnA6iAQOCH8uo0j8NJZPr/xjXXCDIym3Ta7z5mHlglPD/uvLaBufxN7sY2f5r5X3Up1MHDvNnrQ66TX4bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aghosh1\\OneDrive - Children's Mercy Kansas City\\personalprojects\\Faces\\Faces\\FacesApiTest\\FacesApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aghosh1\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0-rc.1.20451.14\\microsoft.netcore.platforms.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\aghosh1\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0-rc.1.20451.14\\microsoft.win32.systemevents.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\aghosh1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\aghosh1\\.nuget\\packages\\system.drawing.common\\5.0.0-rc.1.20451.14\\system.drawing.common.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
+  "logs": []
+}
