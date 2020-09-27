@@ -1,9 +1,0 @@
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\bin\Debug\netcoreapp3.1\Messaging.InterfacesConstants.deps.json
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\bin\Debug\netcoreapp3.1\Messaging.InterfacesConstants.dll
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\bin\Debug\netcoreapp3.1\Messaging.InterfacesConstants.pdb
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.csprojAssemblyReference.cache
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.AssemblyInfoInputs.cache
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.AssemblyInfo.cs
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.csproj.CoreCompileInputs.cache
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.dll
-C:\Users\aghosh1\OneDrive - Children's Mercy Kansas City\personalprojects\Faces\Faces.SharedLib\Messaging.InterfacesConstants\obj\Debug\netcoreapp3.1\Messaging.InterfacesConstants.pdb
